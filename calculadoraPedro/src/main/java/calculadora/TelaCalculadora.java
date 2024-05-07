@@ -12,8 +12,8 @@ public class TelaCalculadora extends javax.swing.JFrame {
      */
     
     
-    public TelaCalculadora() {
-        initComponents();
+    public TelaCalculadora() {  
+       initComponents();
     }
 
     /**
